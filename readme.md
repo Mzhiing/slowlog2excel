@@ -6,7 +6,7 @@ chmod +x slowlog2excel
 
 例如：
 
-slowlog2excel -s /usr/local/mysql/data/log -f slow.log -e 20200813.xlsx
+slowlog2excel -s /usr/local/mysql/data/log/ -f slow.log -e 20200813.xlsx
 
 其中：
 
